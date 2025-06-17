@@ -15,9 +15,7 @@ do.cleanuponabort=1
 device.name1=cuscoi
 device.name2=Cuscoi
 device.name3=moto_parrot_cuscoi
-device.name4=
-device.name5=
-supported.versions=
+supported.versions=16
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
